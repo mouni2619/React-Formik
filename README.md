@@ -1,13 +1,9 @@
-# React Formik library management
+# Welcome to the Library Management System Admin Dashboard!
 
-I create an admin dashboard for a library management system that allows users to manage book and author details used FORMIK to add and edit data.\
-I displayed all the existing API data in UI using Axios.\
-I made User to perform CRUD operations on user data, including adding, editing, and deleting user records.\
-The Books and Authors data is stored in a mock API that can be accessed using Axios fetch.\
-I have used React JSX for design and functionality ,Tailwindcss and MUI for styling.\
-My admin dashboard for a library management system is responsive can use in small to large phone,tablet,laptop and desktop.
+Our Library Management System Admin Dashboard is a user-friendly tool for managing books and authors. It allows you to easily add, edit, and delete book and author details, perform CRUD operations on user data, and access up-to-date information through API integration. The dashboard is responsive, works on all devices, and has a modern design like Tailwind CSS and Material-UI.
 
-Demo Live App:https://r-formik.netlify.app/
+Live Link:
+https://voluble-rugelach-7c1d1b.netlify.app/
 
 This project is open scorce, 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩
 
